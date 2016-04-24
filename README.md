@@ -1,9 +1,8 @@
 # Ruby on Rails Tutorial: sample application
 
-This is the sample application for the
-[*Ruby on Rails Tutorial:
-Learn Web Development with Rails*](http://www.railstutorial.org/)
-by [Michael Hartl](http://www.michaelhartl.com/). You can use this reference implementation to help track down errors if you end up having trouble with code in the tutorial. In particular, as a first debugging check I suggest getting the test suite to pass on your local machine:
+
+HooDoc.com does not employ, recommend or endorse any care provider or care seeker nor is it responsible for the conduct of any care provider. HooDoc.com provides information and tools to help care seekers and care providers connect and make informed decisions. However, each individual is solely responsible for selecting an appropriate care provider or care seeker for themselves or their families and for complying with all applicable laws in connection with any employment relationship they establish. HooDoc.com does not provide medical advice, diagnosis or treatment or engage in any conduct that requires a professional license.
+HooDoc.com and "There for you" are service marks or registered service marks of HooDoc.com, Inc. © 2016 HooDoc.com, Inc. All rights reserved.
 
 ```
 $ cd ~/workspace
